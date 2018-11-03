@@ -1,2 +1,6 @@
 numinput.csv
 graphs
+.ipynb_checkpoints
+.DS_Store
+example.csv
+leben_base.csv
